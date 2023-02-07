@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <title>Conversor de moeda</title>
+</head>
+<body>
+   
+    <main class="principal">
+        <h1 id="titulo">Conversor de Moedas</h1>
+<form action="" id="formulario"> 
+    <label for="digito">R$</label>
+    <input type="number" name="digito" id="digito">
+    <div class="radios">
+    <input type="radio" name="moeda" value="Dolar" id="Dolar">
+    <label for="Dolar"  >Dólar</label>
+    <input type="radio" name="moeda" value="Euro" id="Euro">
+    <label for="Euro">Euro</label>
+    <input type="radio"  name="moeda" value="Libra" id="Libra">
+    <label for="Libra">Libra</label>
+</div>
+<div class="botoes">
+    <button id="BtConverter">Converter</button>
+    <button type="reset" id="BtLimpar">Limpar</button>
+</div>
+<label for="" id="trocado"></label>
+</form>
+    </main>
+</body>
+<script src="js/main.js"></script>
+</html>
