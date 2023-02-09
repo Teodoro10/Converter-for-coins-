@@ -1,17 +1,33 @@
 *{
     font-family: 'Hind', sans-serif;
 }
-#titulo{
-   margin-left: 27%;
-   margin-top: 1rem;
+body{
+ background-color: #000;
 }
+.principal{
+    background-color: #7B7D7D ;
+    border-radius: 10px 10px;
+   width: 20rem;
+   height: 20rem;
+   margin-left: 35%;
+   margin-top: 7%;
+   display: flex;
+   justify-content: center;
+
+}
+#titulo{
+   margin-left:10%;
+   margin-bottom: 5%;
+} 
+
 #formulario{
-    margin-top: 3%;
-   margin-left: 5%;
+     margin-top: 10%; 
    text-align: center;
+   
 }
 #digito{
-    background: #7B7D7D;
+    background: #fff;
+}  background: #7B7D7D;
 }
 .radios{
     margin-top: 0.5rem;
