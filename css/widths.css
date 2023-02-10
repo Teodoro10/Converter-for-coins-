@@ -19,4 +19,11 @@
     }
   }
 
+ @media screen and (max-width: 400px){
+    .principal{
+     margin-left:1% ;
+    
+    }
+  }
+
 
