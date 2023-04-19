@@ -1,4 +1,5 @@
-
-<p>I´m doing prototype whith the whidths: 900px, 766px, 630px </p>
-<p> practicing media screen, have outher project using this function below the link  </p>
- <a href="https://stellular-paletas-a09114.netlify.app/"> Alura Books</a>
+<h1> Conversor de moedas </h1>
+<p> Nesse projeto usei as seguintes tecnologias: </br>
+Javascript, HTML, CSS </p>
+<p> Veja como esta o prejeto </p>
+https://mellifluous-torrone-d8a579.netlify.app
